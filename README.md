@@ -1,9 +1,10 @@
 # assembly-pingpong
 An assembly 8086x of the game pong
-\nKeys: 
-\nPlayer 1:
-\nw - up
-\ns - down
+
+Keys: 
+Player 1:
+w - up
+s - down
 
 Player 2:
 i - up
